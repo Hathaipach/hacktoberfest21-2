@@ -3,11 +3,6 @@ body {
   padding: 0;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: rgb(243, 233, 233);
-  font-family: "Lato", Arial, sans-serif;
-  font-size: 16px;
-  line-height: 1.8;
-  font-weight: normal;
-  color: gray;
 }
 .navbar {
   height: 50px;
@@ -35,4 +30,3 @@ nav a{
   margin-top: 30%;
   
 }
-
